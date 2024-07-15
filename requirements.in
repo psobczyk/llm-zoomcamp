@@ -5,3 +5,6 @@ elasticsearch
 scikit-learn
 pandas
 tiktoken
+sentence_transformers==2.7.0
+numpy==1.26.4
+requests
